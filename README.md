@@ -31,7 +31,7 @@ git clone https://github.com/balamarimuthu/flask-bert-sentiment.git
 cd flask-bert-sentiment
 ```
 
-### 3. Download the Fine-Tuned Model 🧠
+### [3. Download the Fine-Tuned Model 🧠](https://www.kaggle.com/models/balamarimuthu/bert-based)
 
 The trained BERT model is hosted on Kaggle due to its size. You must download it before running the application.
 
