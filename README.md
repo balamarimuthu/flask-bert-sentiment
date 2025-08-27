@@ -1,4 +1,4 @@
-BERT Sentiment Analysis API with Flask
+🎬 BERT Sentiment Analysis API with Flask
 A powerful and lightweight web API that uses a fine-tuned BERT model to perform real-time sentiment analysis on movie reviews and other text.
 
 This application is built with Flask and leverages the Hugging Face Transformers library to serve a sophisticated NLP model, capable of understanding context and nuance to classify text as "Positive" or "Negative".
