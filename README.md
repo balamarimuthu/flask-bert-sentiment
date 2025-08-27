@@ -35,9 +35,9 @@ cd flask-bert-sentiment
 
 The trained BERT model is hosted on Kaggle due to its size. You must download it before running the application.
 
-- **Download the `bert_sentiment_model` from Kaggle**
+- **Download the `bert__model` from Kaggle**
 
-After downloading, place the `bert_sentiment_model` folder in the main project directory.
+After downloading, place the `local_model_path` folder in the main project directory.
 
 ### 4. Set Up a Virtual Environment
 
