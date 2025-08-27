@@ -1,1 +1,2 @@
-local_model _path= https://www.kaggle.com/models/balamarimuthu/bert-based
+[local_model _path] (https://www.kaggle.com/models/balamarimuthu/bert-based)
+
